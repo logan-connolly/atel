@@ -1,0 +1,38 @@
+baseURL: "https://atel.onrender.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Atel Bus & Truck"
+
+googleAnalytics: "G-VHVJ9ZQJ2Z"
+
+summaryLength: 20
+
+params:
+  title: "Atel Bus & Truck"
+  description: "We offer a comprehensive range of services for RVs, buses, and trucks, including body repairs, mechanical maintenance, and custom paint solutions."
+  images:
+    - "images/hero.webp"
+
+  logo: "logo.webp"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    facebook: "https://www.facebook.com/pg/ATEL-Bus-Truck-Service-Center-Inc-406003592850990"
+
+  location:
+    - "12120 Conway Rd, Beltsville, Maryland 20705"
+
+  contact:
+    - "info@atelbus.com"
+    - "(301) 210-5100"
+
+  copyright: "© 1998 ATEL Bus & Truck Service Center, Inc."
+
+taxonomies:
+  series: "series"
+  tags: "tags"

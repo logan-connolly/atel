@@ -1,0 +1,20 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials"
+
+  featured:
+    image: "images/testimonials.webp"
+    text: "What can I say about ATEL but they are the best! I own a small TV production company out of Wisconsin and have a fleet vehicle in the DC area. After working with the local dealership I found that I was not getting the customer service I should be getting. That's where ATEL and Brian came into play. He has done what a business owner would do for a customer. (TRUE CUSTOMER SERVICE)"
+    client: "Snap 180 Media"
+
+  list:
+    - text: "Once you meet Brian and his team, you will realize that you’re in good hands. Their shop is immaculate and they work on everything from small RVs all the way up to rockstar buses. They are even selected by the state of Maryland to repair all of their equipment that they cannot do in house."
+      client: "Brian Pawsat"
+
+    - text: "Best RV repair place around, super honest, great people, bending over backwards for their customers giving them the kind of experience they deserve. Brian is very responsive, courteous, knowledgeable, and professional."
+      client: "Mark Aldrich"
+
+    - text: "Brian knows RVs inside and out! Could not have found a more knowledgeable and committed person to troubleshoot and problem solve our RV (engine systems) problems that presented themselves on our road trip. How lucky we were to break down just two miles from ATEL!"
+      client: "LucaThis"

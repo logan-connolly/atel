@@ -1,0 +1,18 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Services"
+  text: "Our expansive 40,000-square-foot facility caters to buses, RVs, motorhomes, cars, and SUVs, providing comprehensive body, mechanical, and paint services compliant with DOT regulations."
+  cards:
+    - image: "images/body.webp"
+      title: "Body Repair"
+      text: "Our comprehensive body repair services are designed to bring your vehicle back to its prime condition. From total frame repair and frame straightening to eliminating rust and refurbishing your vehicle, we ensure every detail is meticulously attended to. Our glass replacement services guarantee crystal-clear visibility, while window tinting adds style and protection. For a thorough clean, we offer soda blasting, effectively removing stubborn contaminants. Trust us to revitalize your vehicle, inside and out."
+
+    - image: "images/mechanical.webp"
+      title: "Mechanical Repair"
+      text: "Our skilled technicians specialize in a range of mechanical repairs to keep your vehicle performing at its best. From A/C service to preventive maintenance, we ensure every aspect of your vehicle's mechanical systems is properly maintained. Our expertise extends to diesel and gasoline induction, exhaust gas recirculation, transmission, and power steering repairs. Trust us to diagnose and address any mechanical issues, ensuring your vehicle runs smoothly for miles to come."
+
+    - image: "images/paint.webp"
+      title: "Custom Paint"
+      text: "Transform your vehicle with our custom paint solutions tailored to your unique style. Our services include graphic design, vehicle wraps, and access to state-of-the-art heated paint booths for flawless finishes. Whether you desire refinishing, touch-ups, or decal removal, our skilled team ensures meticulous attention to detail. Let your imagination run wild as we bring your vision to life, making your vehicle a true reflection of your personality."

@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "We keep your vehicles on the road **where they belong**"
+  text: "At ATEL Bus & Truck, we provide expert body repairs, mechanical maintenance, and custom paint solutions for RVs, buses, and trucks. From restoring damaged bodies to servicing mechanical components and delivering bespoke paint designs, we ensure vehicles of all sizes stay in top condition. Count on us for comprehensive vehicle care tailored to your needs."
+
+  buttonPrimary:
+    label: "Give us a call"
+    url: "tel:301-210-5100"
+
+  buttonSecondary:
+    label: "Email us"
+    url: "mailto:info@atelbus.com"
